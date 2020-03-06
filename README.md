@@ -47,3 +47,4 @@ firebase deploy
 
 
 ## License
+[MIT](https://github.com/damian1997/project-1-1920/blob/master/LICENSE)
