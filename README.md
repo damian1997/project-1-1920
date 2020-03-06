@@ -37,3 +37,13 @@ If you want to edit the functionality of the voice assistant edit the index.js f
 ```
 firebase deploy
 ```
+
+## Packages
+* [Firebase](https://firebase.google.com/)
+
+## Sources
+* [Google developers assistans](https://developers.google.com/assistant/conversational)
+* [Dialogflow](https://dialogflow.com/)
+
+
+## License
